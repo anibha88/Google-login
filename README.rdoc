@@ -1,0 +1,34 @@
+== README
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
+
+
+Please feel free to use a different markup language if you do not plan to run
+<tt>rake doc:app</tt>.
+
+Trouble shooter for me
+
+You must enable a couple API's for things to work as expected.
+
+First go to https://console.developers.google.com and make sure under "APIs" that you have the "Contacts API" and "Google+ API" enabled. Once that is done you should no longer see that error message. =)
